@@ -8,7 +8,7 @@ I Created paired data using English and Nepali translation of Bible.
 
 <img width="188" alt="data" src="https://user-images.githubusercontent.com/111170719/235434110-84737431-7bb6-44ea-bf56-895eace89472.png">
 
-#Finally the above translation model was integrated with OpenAi's Davinci-003 to work as a translation chatbot, which gives Neplai answer when asked any question in english.
+#Finally the above translation model was integrated with OpenAi's Davinci-003 to work as a translation chatbot, which gives answer in Nepali  when asked any english question.
 Here I have used templete to instruct Davinci model to be named as #Avnish.
 So when asked what is your name it replies in Nepali.
 
